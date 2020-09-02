@@ -1,2 +1,2 @@
 # Mini Project
-A model that can differentiate healthy people from people having parkinson's disease.
+Built a model that can differentiate healthy people from people having parkinson's disease.
