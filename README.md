@@ -1,4 +1,3 @@
 # Technocolabs-Internship-Project
-Technocolabs Machine Learning Internship ( https://www.linkedin.com/company/technocolabs/ )
-
-This GitHub repository is meant for all the assessments and tasks provided by the "Technocolabs" for the duration of 1 month internship from September-October 2020
+Mini Project
+A model that can differentiate healthy people from people having parkinson's disease.
